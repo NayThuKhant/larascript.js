@@ -1,12 +1,11 @@
-# larascript.js
+# larascript
 
-[![npm version](https://img.shields.io/npm/v/larascript.js.svg?style=flat-square)](https://github.com/naythukhant/larascript.js)
-[![npm downloads](https://img.shields.io/npm/dm/larascript.js.svg?style=flat-square)](https://github.com/naythukhant/larascript.js)
-[![npm license](https://img.shields.io/npm/l/larascript.js.svg?style=flat-square)](https://github.com/naythukhant/larascript.js)
+[![npm version](https://img.shields.io/npm/v/larascript.svg?style=flat-square)](https://github.com/naythukhant/larascript)
+[![npm downloads](https://img.shields.io/npm/dm/larascript.svg?style=flat-square)](https://github.com/naythukhant/larascript)
+[![npm license](https://img.shields.io/npm/l/larascript.svg?style=flat-square)](https://github.com/naythukhant/larascript)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg?style=flat-square)](https://github.com/ecrmnn/collect.js/blob/master/package.json)
 [![eslint](https://img.shields.io/badge/code_style-airbnb-blue.svg?style=flat-square)](https://github.com/airbnb/javascript)
-[![cdnjs version](https://img.shields.io/cdnjs/v/larascript.js.svg?style=flat-square)](https://cdnjs.com/libraries/collect.js)
 
 Get the power of Laravel Utilities in Javascript
 
@@ -19,7 +18,7 @@ This package works together with [Laralog Server](https://github.com/naythukhant
 NPM
 
 ```bash
-npm install larascript.js
+npm install larascript
 ```
 
 ### Changelog
