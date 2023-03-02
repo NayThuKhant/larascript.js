@@ -1,0 +1,29 @@
+{
+  "name": "larascript.js",
+  "version": "1.0.0",
+  "description": "Get the power of Laravel Utilities in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "lint": "eslint src",
+    "lint:fix": "eslint --fix src"
+  },
+  "keywords": [
+    "laravel",
+    "larascript",
+    "collect.js"
+  ],
+  "author": "Nay Thu Khant",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "eslint": "^8.35.0",
+    "eslint-auto-fix": "^1.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
