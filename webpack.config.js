@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: 'index.js',
   output: {
     filename: 'index.js',
     path: path.resolve(__dirname, 'dist'),
@@ -10,6 +10,6 @@ module.exports = {
     globalObject: 'this',
   },
   resolve: {
-    modules: [path.resolve(__dirname, 'src'), 'node_modules'],
+    modules: [path.resolve(__dirname), 'node_modules'],
   },
 };
