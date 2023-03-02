@@ -4,9 +4,10 @@
   "description": "Get the power of Laravel Utilities in Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test",
+    "transpile": "rm -rf dist",
     "lint": "eslint src",
-    "lint:fix": "eslint --fix src"
+    "lint:fix": "eslint --fix src",
+    "build": "npm run transpile && npx webpack --mode=production"
   },
   "keywords": [
     "laravel",
