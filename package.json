@@ -34,5 +34,6 @@
   "bugs": {
     "url": "https://github/naythukhant/larascript.js/issues"
   },
-  "homepage": "https://github/naythukhant/larascript.js"
+  "homepage": "https://github/naythukhant/larascript.js",
+  "dependencies": {}
 }

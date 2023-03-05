@@ -16,7 +16,6 @@ This package works together with [Laralog Server](https://github.com/naythukhant
 ## Installation
 
 NPM
-
 ```bash
 npm install larascript.js
 ```
