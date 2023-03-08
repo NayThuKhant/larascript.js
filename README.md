@@ -9,10 +9,6 @@
 
 Get the power of Laravel Utilities in Javascript
 
-This package works together with [Laralog Server](https://github.com/naythukhant/laralog) and you need to set up a log server using 
-[Laralog Server](https://github.com/naythukhant/laralog) for using this package.
-
-
 ## Installation
 
 NPM
