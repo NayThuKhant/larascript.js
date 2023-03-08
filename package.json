@@ -1,6 +1,6 @@
 {
   "name": "larascript.js",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Get the power of Laravel Utilities in Javascript",
   "main": "index.js",
   "scripts": {
